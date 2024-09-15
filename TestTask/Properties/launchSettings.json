@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestTask": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Nainez\\Desktop\\Entrvista\\Origin\"\r\n\"C:\\Users\\Nainez\\Desktop\\Entrvista\\Replica\"\r\n\"C:\\Users\\Nainez\\Desktop\\Entrvista\\Log\"\r\n\"15000\""
+    }
+  }
+}
